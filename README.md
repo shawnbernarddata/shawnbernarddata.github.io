@@ -5,3 +5,7 @@ Hello! I'm Shawn, a 24-year-old data enthusiast based in Brooklyn, NY. Despite m
 ## [Resume](https://github.com/shawnbernard7/shawnbernard7.github.io/blob/main/resume_v3.pdf)
 
 ## Projects
+
+## Connect
+<shawn.b.bernard@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/shawn-bernard1/)
