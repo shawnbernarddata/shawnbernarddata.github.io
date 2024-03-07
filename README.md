@@ -8,4 +8,5 @@ Hello! I'm Shawn, a 24-year-old data enthusiast based in Brooklyn, NY. Despite m
 
 ## Connect
 <shawn.b.bernard@gmail.com>
+
 [LinkedIn](https://www.linkedin.com/in/shawn-bernard1/)
