@@ -3,8 +3,8 @@
 #### Technical Skills: Python (Pandas, NumPy, Scikit-learn), R (Tidyverse), PySpark, Databricks, SQL
 
 ## Education							       		
-- M.S., Biostatistics & Data Science | Cornell University (_August 2022_)	 			        		
-- B.S., Biology                      | Lehigh University (_May 2021_)
+- **M.S., Biostatistics & Data Science @ Cornell University (_Completed August 2022_)**	 			        		
+- **B.S., Biology @ Lehigh University (_Completed May 2021_)**
 
 ## Work Experience
 **Data Scientist @ Solve(d) (_August 2022 - Present_)**
