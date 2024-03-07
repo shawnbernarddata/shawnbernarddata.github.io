@@ -6,7 +6,7 @@ Hello! I'm Shawn, a 24-year-old data enthusiast based in Brooklyn, NY. Despite m
 
 ## Projects
 ### [Heart Disease Classification - KNN Demo](https://github.com/shawnbernard7/shawnbernard7.github.io/blob/main/projects/knn_heart_disease.ipynb)
-In this exercise, I utilize K-Nearest Neighbors classification to classify heart disease presence. This was more of a demo, where I perform KNN & cross-validation without using packages to show the inner-workings of these techniques.
+In this exercise, I utilize K-Nearest Neighbors classification to classify heart disease presence. This is a demo where I perform KNN & cross-validation without using packages to show the inner-workings of these techniques.
 
 ## Connect
 ### <shawn.b.bernard@gmail.com>
