@@ -7,6 +7,8 @@ Hello! I'm Shawn, a 24-year-old data enthusiast based in Brooklyn, NY. Despite m
 ## Projects
 ### [Heart Disease Classification - KNN Demo](https://github.com/shawnbernard7/shawnbernard7.github.io/blob/main/projects/knn_heart_disease.ipynb)
 In this exercise, I utilize K-Nearest Neighbors classification to classify heart disease presence. This is a demo where I perform KNN & cross-validation without using packages to show the inner-workings of these techniques.
+### [Pubmed Metadata Extraction Demo](https://github.com/shawnbernarddata/shawnbernarddata.github.io/blob/main/projects/pubmed_etl.ipynb)
+I extract basic metadata from Pubmed articles, pulling from a public domain & utilizing BeautifulSoup parsing in this notebook. This was a fun ETL exercise containing code which can be used as a backbone in other data extractions from the web.
 
 ## Connect
 ### <shawn.b.bernard@gmail.com>
