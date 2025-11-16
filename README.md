@@ -1,8 +1,8 @@
 # Data Science/Engineering Portfolio
 
-Hello! I'm Shawn, a 25-year-old data enthusiast based in Brooklyn, NY. Despite my initial goals for medical school, introductory data science courses in college sparked a new passion within me. Diving into the world of data science, I pursued a Master's to refine my skills and knowledge. Now, I've begun an exciting career as a data scientist, eager to uncover insights that drive change. Beyond data, I enjoy spending time with loved ones, exploring new places, playing basketball, and hiking. 
+Hello! I'm Shawn, a 26-year-old data scientist based in Brooklyn, NY. I’ve worked across supply chain analytics and advertising, primarily in healthcare. Originally planning for medical school, I discovered a passion for data in college and went on to earn my Master’s in Data Science. Today, I focus on building models and uncovering insights that drive real impact. Outside of work, I enjoy exploring new places, playing basketball, hiking, and spending time with friends and family.
 
-## [Resume](https://github.com/shawnbernard7/shawnbernard7.github.io/blob/main/assets/resume_v3.pdf)
+## [Resume](https://github.com/shawnbernarddata/shawnbernarddata.github.io/blob/main/assets/Shawn%20Bernard%20Resume.pdf)
 
 ## Projects
 ### [Heart Disease Classification - KNN Demo](https://github.com/shawnbernard7/shawnbernard7.github.io/blob/main/projects/knn_heart_disease.ipynb)
