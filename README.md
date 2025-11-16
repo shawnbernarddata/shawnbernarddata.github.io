@@ -1,6 +1,6 @@
 # Data Science/Engineering Portfolio
 
-Hello! I'm Shawn, a 26-year-old data scientist based in Brooklyn, NY. I’ve worked across supply chain analytics and advertising, primarily in healthcare. Originally planning for medical school, I discovered a passion for data in college and went on to earn my Master’s in Data Science. Today, I focus on building models and uncovering insights that drive real impact. Outside of work, I enjoy exploring new places, playing basketball, hiking, and spending time with friends and family.
+Hello! I'm Shawn, a 26-year-old data scientist based in Brooklyn, NY. I’ve worked across supply chain analytics and advertising, primarily in healthcare. Originally planning for medical school, I discovered a passion for data in college and went on to earn my Master’s in Biostats & Data Science. Today, I focus on building models and uncovering insights that drive real impact. Outside of work, I enjoy exploring new places, playing basketball, hiking, and spending time with friends and family.
 
 ## [Resume](https://github.com/shawnbernarddata/shawnbernarddata.github.io/blob/main/assets/Shawn%20Bernard%20Resume.pdf)
 
